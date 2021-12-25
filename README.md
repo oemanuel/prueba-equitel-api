@@ -31,7 +31,7 @@
 
 ## Run the app
 
-run mongod
+- run mongod
 
 ```sh
 > npm start
